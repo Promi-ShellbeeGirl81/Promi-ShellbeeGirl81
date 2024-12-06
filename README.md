@@ -11,7 +11,6 @@
 
 ## 🎯 Goals  
 - Build responsive and visually appealing websites  
-- Master CSS frameworks like Bootstrap and Tailwind  
 - Explore JavaScript for dynamic web applications  
 
 ## 🌟 Fun Facts  
